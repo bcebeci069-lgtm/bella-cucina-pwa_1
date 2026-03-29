@@ -1,0 +1,24 @@
+# ═══════════════════════════════════════════
+# Restaurant App — Umgebungsvariablen
+# Datei umbenennen zu: .env
+# NIEMALS diese Datei in Git hochladen!
+# ═══════════════════════════════════════════
+
+# ── UBER DIRECT ─────────────────────────────
+# Erhalten auf: developer.uber.com → Deine App → Credentials
+UBER_CLIENT_ID=hier_client_id_eintragen
+UBER_CLIENT_SECRET=hier_client_secret_eintragen
+
+# Erhalten in: Uber Eats Manager → Einstellungen → API
+UBER_CUSTOMER_ID=hier_customer_id_eintragen
+
+# ── WOLT DRIVE ──────────────────────────────
+# Erhalten auf: developer.wolt.com → API Keys
+WOLT_API_KEY=hier_wolt_api_key_eintragen
+
+# Erhalten im: Wolt Partner Portal
+WOLT_MERCHANT_ID=hier_merchant_id_eintragen
+WOLT_VENUE_ID=hier_venue_id_eintragen
+
+# ── SERVER ──────────────────────────────────
+PORT=3001
